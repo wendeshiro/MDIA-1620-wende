@@ -9,7 +9,7 @@
 **Three “aha” moments**
 - I learned how to use dir, cd, cd.., and clear commands in the terminal.
 - I learned how to read version numbers.
-- We should interact with computer logically.
+- We should interact with computers logically.
 
 **Two things that are still unclear** ( :relaxed: I got the answers during the class Q&A session. )
 - How to directly access deeper folders in the terminal.
