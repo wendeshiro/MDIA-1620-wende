@@ -13,7 +13,7 @@
 
 **Two things that are still unclear** ( :relaxed: I got the answers during the class Q&A session. )
 - How to directly access deeper folders in the terminal.
-- How to delete folers or files in the terminal.
+- How to delete folders or files in the terminal.
 
 **One word for how I am feeling**
 - Curious
