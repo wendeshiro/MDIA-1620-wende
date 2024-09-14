@@ -1,4 +1,4 @@
-# MDIA-1620-wende
+# MDIA-1620-W2-wende
 
 **Name:** Wende Li (or Wendell for easier pronouncing)
 
@@ -11,9 +11,9 @@
 - I learned how to read version numbers.
 - We should interact with computer logically.
 
-**Two things that are still unclear**
+**Two things that are still unclear** ( :relaxed: I got the answers during the class Q&A session. )
 - How to directly access deeper folders in the terminal.
 - How to delete folers or files in the terminal.
 
 **One word for how I am feeling**
-- curious
+- Curious
