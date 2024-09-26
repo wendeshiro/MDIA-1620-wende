@@ -47,3 +47,7 @@ console.log(rentIntro)
 
 let rentIntro2 = `It costs ${STABLE_MONTHLY_FEE} monthly. test 2`
 console.log(rentIntro2)
+
+let horseNickName = "shiro";
+let introToSamuel = `Hello Samuel, welcome to my stable. My horse name is ${horseName} and his nickname is ${horseNickName}. As a welcome gesture, I will offer a 10% discount. :) The cost for a stable three-month stay will be $270.`
+console.log(introToSamuel)
