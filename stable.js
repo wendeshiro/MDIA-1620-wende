@@ -150,3 +150,47 @@ if (!isHorseInside) {
 } else {
     console.log(horseName + " is inside"); //if true, this will be output.
 }
+
+// Week 6 Lab Practice
+
+let word = "Chaiquan";
+console.log(word.charAt(0));
+console.log(word.charAt(2));
+
+horseName = "shiro (lesson 6 ver.)"
+
+// Horse = ["name", age, isInside, "nickName"]
+let horseOne = [horseName, horseAge, isHorseInside, horseNickName];
+let horseTwo = ["shibamame", 1, false, "mame", 22222];
+console.log(horseOne);
+console.log(horseTwo);
+
+console.log(horseOne.length);
+console.log(horseTwo.length);
+
+horseOne.push("red");
+console.log(horseOne);
+horseTwo.push("yellow");
+console.log(horseTwo);
+
+console.log(horseOne[0]+" is the horsename, and he's "+horseOne[1]+" years old.");
+
+console.log(horseOne[1] + horseTwo[1]);
+
+if(horseOne[1] === 18){
+    console.log(`Yes, ${horseOne[0]} is ${horseOne[1]} years old.`)
+}
+
+
+// - output an intro to your horses ↓
+let horseNames = [horseName, "shibamame", "shibakuro"];
+let horseIntro = `There are ${horseNames.length} horses staying at my stables: ${horseNames[0]}, ${horseNames[1]}, and ${horseNames[2]}.`;
+console.log(horseIntro)
+
+// - output whether your horses are inside or outside at least 3 horses ↓
+
+let horseStatus = ["inside", "outside", "outside"] // shiro (lesson 6 ver.), shibamame, shibakuro
+console.log(`${horseNames[0]} is ${horseStatus[0]}. ${horseNames[1]} is ${horseStatus[1]}. ${horseNames[2]} is ${horseStatus[2]}.`)
+
+
+
