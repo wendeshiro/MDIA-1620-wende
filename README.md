@@ -38,6 +38,7 @@ update practice 20240919
 
 
 **【20241010 lab 6】**
+
 **3 confusing things**
 - After changing a laptop, how do I configure it to run git-related commands, such as git push, like before?
 - :cry: Sorry, I cannot think of anything else at the moment. I have taken notes about what we have learned (such as CLI commands and JavaScript statements), but I am still not very familiar with them. Every time, I have to look at my notes, but I think I'll get better after practicing them more.
@@ -46,7 +47,7 @@ update practice 20240919
 **3 things you feel like you have a solid understanding of**
 - The way of git push (git add; git commit -m""; git push)
 - The operator (+ - * / **)
-- Creating and switch to a new branch (git checkout -b branchnName)
+- Creating and switch to a new branch (git checkout -b branchName)
 
 **analogies that you use to think about things (gif)**<br>
 ![a gif](https://media1.tenor.com/m/OWm4qgjMe2AAAAAC/space-cat.gif)
